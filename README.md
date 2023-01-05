@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Byron Brandy.
 - 👀 I’m interested in computer technology.
-- 🌱 I’m currently learning on how to develop a unique software.
+- 🌱 I’m currently learning on how to be fullstack developer.
 - 💞️ I’m looking to collaborate with great developers around the world.
 
 <!---
